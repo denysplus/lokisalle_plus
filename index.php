@@ -1,7 +1,7 @@
 <?php
 include ("inc/init.inc.php"); // doit toujours se trouver au tout début de ma page index.html
 
-
+TEST COMMENTAIRE MAXENCE
 
 
 
