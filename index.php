@@ -1,5 +1,5 @@
 <?php
-include ("inc/init.inc.php"); // doit se trouver au tout début de ma page index.html
+include ("inc/init.inc.php"); // doit toujours se trouver au tout début de ma page index.html
 
 
 
